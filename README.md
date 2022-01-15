@@ -1,6 +1,6 @@
-# cocu_version_1
+# cocu_version_2
 
-A new Flutter project.
+A flashlight app with a simple design.
 
 ## Getting Started
 
